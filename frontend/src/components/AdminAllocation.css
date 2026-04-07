@@ -1,0 +1,82 @@
+.admin-allocation-page {
+  background-color: #f5f7f9;
+  min-height: 100vh;
+  padding-top: 120px; /* Adjust for fixed header */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.table-wrapper {
+  overflow: hidden;
+  border: 1px solid #dee2e6;
+}
+
+.conference-table thead th {
+  background-color: #fff;
+  color: #495057;
+  font-size: 0.85rem;
+  font-weight: 600;
+  text-transform: none;
+  border-bottom: 2px solid #dee2e6;
+  padding: 12px 15px;
+  vertical-align: middle;
+}
+
+.conference-table tbody td {
+  padding: 12px 15px;
+  vertical-align: middle;
+  border-bottom: 1px solid #eee;
+  font-size: 0.9rem;
+}
+
+.officer-name {
+  font-weight: 600;
+  color: #2c3e50;
+}
+
+.btn-rec-badge {
+  background-color: #fff;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  padding: 4px 10px;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #495057;
+  transition: all 0.2s;
+  min-width: 35px;
+}
+
+.btn-rec-badge:hover {
+  border-color: #0494fa;
+  color: #0494fa;
+  background-color: #f0f8ff;
+}
+
+.btn-xs {
+  padding: 2px 8px;
+  font-size: 0.75rem;
+}
+
+.rec-text-preview {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  font-size: 0.8rem;
+  color: #6c757d;
+  line-height: 1.4;
+}
+
+.btn-outline-primary {
+  border-color: #0d6efd;
+  color: #0d6efd;
+}
+
+.btn-outline-danger {
+  border-color: #dc3545;
+  color: #dc3545;
+}
+
+.table-primary {
+  background-color: #e9f2ff !important;
+}

@@ -1,0 +1,128 @@
+.portal-footer {
+  background: #1f0482;
+  color: #f8fafc;
+  padding: 10px 0 10px;
+  border-top: 2px solid #0b3d91;
+  font-family: 'Inter', sans-serif;
+  z-index: 100;
+  position: relative;
+  margin-top: auto;
+}
+
+.portal-footer .container {
+  max-width: 1800px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.footer-content {
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  gap: 20px;
+  margin-bottom: 15px;
+}
+
+.footer-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 6px;
+  color: #ffffff;
+}
+
+.footer-description {
+  font-size: 0.8rem;
+  line-height: 1.5;
+  opacity: 0.9;
+  max-width: 400px;
+}
+
+.section-title {
+  font-size: 0.9rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+  color: #ffffff;
+  position: relative;
+  padding-bottom: 4px;
+}
+
+.section-title::after {
+  content: '';
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 30px;
+  height: 2px;
+  background: #8484ff;
+}
+
+.footer-links {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-links li {
+  margin-bottom: 8px;
+}
+
+.footer-links a {
+  color: #cbd5e1;
+  text-decoration: none;
+  font-size: 0.75rem;
+  transition: color 0.2s ease, transform 0.2s ease;
+  display: inline-block;
+}
+
+.footer-links a:hover {
+  color: #ffffff;
+  transform: translateX(5px);
+}
+
+.contact-info {
+  font-size: 0.75rem;
+  line-height: 1.6;
+  opacity: 0.9;
+}
+
+.footer-bottom {
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  padding-top: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+.copyright,
+.credits {
+  font-size: 0.7rem;
+  margin: 0;
+  opacity: 0.8;
+}
+
+.prism-team {
+  font-weight: 700;
+  color: #8484ff;
+}
+
+@media (max-width: 768px) {
+  .footer-content {
+    grid-template-columns: 1fr;
+    gap: 30px;
+    text-align: center;
+  }
+
+  .footer-description {
+    margin: 0 auto;
+  }
+
+  .section-title::after {
+    left: 50%;
+    transform: translateX(-50%);
+  }
+
+  .footer-bottom {
+    flex-direction: column;
+    text-align: center;
+  }
+}

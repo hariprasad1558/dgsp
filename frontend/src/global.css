@@ -1,0 +1,25 @@
+:root {
+  --app-scale: 0.7;
+  --footer-space: 72px;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+/* Make the whole app render like browser zoom 80% */
+body {
+  zoom: var(--app-scale);
+}
+
+/* Fallback for browsers that do not support zoom */
+@supports not (zoom: 1) {
+  body {
+    transform: scale(var(--app-scale));
+    transform-origin: top left;
+    width: calc(100% / var(--app-scale));
+    min-height: calc(100% / var(--app-scale));
+  }
+}

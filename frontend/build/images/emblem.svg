@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="8" fill="#ffffff"/>
+  <circle cx="32" cy="24" r="10" fill="#ffd700" stroke="#b8860b" stroke-width="2"/>
+  <rect x="14" y="36" width="36" height="12" rx="3" fill="#b22234"/>
+  <text x="32" y="42" font-size="8" font-family="sans-serif" fill="#fff" text-anchor="middle">IND</text>
+</svg>

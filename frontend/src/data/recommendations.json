@@ -1,0 +1,3078 @@
+[
+  {
+    "id": 1,
+    "recNo": 1,
+    "recommendation": "All State/UT Police/Central Police Organisations should organize Conferences at the State and District levels on the lines of DGsP/IGsP. Conference, for percolation of the outcome of the DGsP/IGsP Conference to the grassroot level.",
+    "actionedBy": "MHA, DGsP of States/UTs, DGs of CAPFs/CPOs\n",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ],
+    "stateDepartments": "ewfer"
+  },
+  {
+    "id": 2,
+    "recNo": 2,
+    "recommendation": "State/UT Police should form Committees of officers as a part of the efforts to establish Sardar Patel Jayanti/Rashtriya Ekta Diwas (October 31) as a Police oriented event. The Committees should come up with innovative ideas and best practices to organize the event in a year-long format, besides developing parameters for competitions across State/ UT Police and CAPFs for entry as participants to the event at Ekta Nagar, Narmada district (Gujarat).",
+    "actionedBy": "MHA, IB, DGsP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "recNo": 3,
+    "recommendation": "Police Station level intelligence should be utilized to systematically profile activists within their jurisdictions and monitor all their activities, including on social media",
+    "actionedBy": "DGsP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "recNo": 4,
+    "recommendation": "A nationwide system should be developed to tag each category of information, which would enable efficient analysis of information from multiple channels related to a particular category and generate actionable intelligence pertaining to protests and agitations. Analysis of such information should be done using technology & AI.",
+    "actionedBy": "MHA, IB, DGsP of States/UTs",
+    "category": "Drafting of guidelines, policies & regulations",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "recNo": 5,
+    "recommendation": "BPR&D to identify more parameters for ranking Police Stations in urban areas, including the steps taken by Police to address the concerns of the non-local population and adoption of social media monitoring and modern technology in Urban Policing.",
+    "actionedBy": "MHA, BPR&D",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "recNo": 6,
+    "recommendation": "Police recruitment policies should be standardised across all States/UTs. Uniform provisions should also be made for induction of ex-Agniveers into State/UT Police and CAPFs. However, their assimilation should be managed carefully to prevent formation of any distinct internal identity within the Force.",
+    "actionedBy": "MHA, DGsP of States/UTs, CAPFs",
+    "category": "Drafting of guidelines, policies & regulations",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "recNo": 7,
+    "recommendation": "State/UT Police should aggregate their requirement of weapons, vehicles and other equipment for the next five years for developing a long-term bulk procurement model at substantially reduced price. Further, State/UT Police should formulate a vehicle scrapping policy on similar lines to expedite modernisation of the Police vehicle fleet and attract the vehicle scrapping industry to take up bulk scrapping orders. State/UT Police should also increase procurement through GeM portal for greater transparency.",
+    "actionedBy": "MHA, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "recNo": 8,
+    "recommendation": "Police Station complexes should be redeveloped by constructing high-rise buildings in view of the space crunch in urban areas, providing space for offices and residences for Police personnel and their families.",
+    "actionedBy": "DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "recNo": 9,
+    "recommendation": "All Police officers should dedicate 100 hours per year for imparting training to their junior officers on the basis of skills/experience.",
+    "actionedBy": "DGsP of States/UTs, DGs of CAPFS/CPOS",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "recNo": 10,
+    "recommendation": "Mechanism should be devised to effectively leverage technology and enhance Police resources.",
+    "actionedBy": "MHA, BPR&D",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "recNo": 11,
+    "recommendation": "Police officers with more than 10 years of service experience should adopt one Police Station each and implement measures for improving Policing to achieve the vision of Viksit Bharat-2047.",
+    "actionedBy": "DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "recNo": 12,
+    "recommendation": "Emerging crime scenarios, wherein some local criminals have been observed associating with global criminal/terror groups, should be properly studied at State, District and Police Station levels for evolving an effective Police response.",
+    "actionedBy": "DGSP of States/UTS, NIA",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "recNo": 13,
+    "recommendation": "In view of the significant improvement in the security scenario on the LWE front and efforts put in by the Police towards achieving this, all the State/UT Police should make efforts towards building a positive image of the Police as a whole, amplifying positive stories of sacrifice, valour, professionalism and hard work of Police personnel involved in the fight against LWES.",
+    "actionedBy": "MHA, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "recNo": 14,
+    "recommendation": "Police should shift its strategy in erstwhile LWE affected districts from 'crisis handling' to 'facilitating welfare and development as a part of public outreach. Action should be ensured by posting development-oriented officers to these areas. Police should engage with youth in these areas through constructive activities such as sports competitions and cultural events at block and district levels, on the lines of the recently held 'Bastar Olympics', and ensure due publicity to such programmes. Tours and educational visits for tribal youth should be organised to connect them with other parts of the country and build an emotional bond.",
+    "actionedBy": "MHA, BPR&D, DGSP of States/UTs, Ministry of Youth Affairs & Sports, Ministry of Tribal Affairs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "recNo": 15,
+    "recommendation": "Exploitation of girls by LWEs should be brought out in the public discourse for setting the correct narrative in the minds of people.",
+    "actionedBy": "MHA, IB, DGSP of States/UTs concerned",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "recNo": 16,
+    "recommendation": "Activities of banned organisations should be reviewed periodically by States/UTs and biannually by the Centre, as extremist elements often re-emerged under new identities.",
+    "actionedBy": "MHA, IB, NIA, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "recNo": 17,
+    "recommendation": "MHA should deliberate on ways to utilize the upcoming AI Impact Summit (February 16-20, 2026) from the Policing perspective and schedule separate sessions of experts from State/UT Police with global AI experts on the possible solutions for Policing issues. MHA and State/UT Police should send their representatives to the Summit. State/UT Police should set up a dedicated AI Task Force for capacity building in AI, and ensure that at least 70% Police personnel get enrolled for the online courses on AI on the iGoT Portal.",
+    "actionedBy": "MHA, IB, BPR&D, DGsP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "recNo": 18,
+    "recommendation": "Police organizations to formulate strict security protocols for procurement and usage of digital hardware and personal gadgets by Police officers/personnel in view of the threat of exploitation/compromise of digital devices by State/non-State adversarial actors.",
+    "actionedBy": "MHA, MeitY, IB, DGSP of States/UTs, CAPFs/CPOs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "recNo": 19,
+    "recommendation": "State/UT Police should conduct hackathons by engaging IITs, forensics experts, academia and industry; and organise Start-up Summits/joint exhibitions for exploring Start-up driven solutions towards developing an indigenous manufacturing base for affordable forensic equipment/kits.",
+    "actionedBy": "MHA, NFSU, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "recNo": 20,
+    "recommendation": "Police should make use of NATGRID by linking it with AI to ensure data-driven justice delivery and better results in internal security.",
+    "actionedBy": "MHA, NATGRID, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "recNo": 21,
+    "recommendation": "State/UT Police should devise innovative ways to engage and channelize the positive energy of the youth for the overall benefit of the country, adopting a whole-of-government and whole-of-society approach. Mechanism should be developed by the Police to engage with individuals/groups, who possess constructive and positive outlook.",
+    "actionedBy": "MHA, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "recNo": 22,
+    "recommendation": "A databank of students/children visiting Police Stations and taking part in sensitization programmes should be maintained. Essay competitions should be conducted to evaluate their understanding on topics/issues related to Police functioning. Their visits to Universities should be organized as brand ambassadors for building a positive image of Police.",
+    "actionedBy": "DGsP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "recNo": 23,
+    "recommendation": "Police officers, particularly Police Station level officers, should list out and engage local community leaders so as to use them for diffusing crisis situations.",
+    "actionedBy": "DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "recNo": 24,
+    "recommendation": "To realize the vision of Viksit Bharat-2047 and shed its oppressive colonial image, SMART Policing principles (S-Strict, Sensitive & Strategic; M-Modern, Mobile & Meticulous; A-Alert, Accountable & Adaptable; R-Reliable, Responsive & Resilient; T-Tech savvy, Trained & Transparent) should be adopted by all Police personnel. These SMART Policing principles should also be prominently displayed in every Police Station.",
+    "actionedBy": "MHA, BPR&D, DGsP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "recNo": 25,
+    "recommendation": "Police should proactively engage with media, strictly in uniform, to project and convey the true Police version. While doing so, the endeavor should be to project the organizational/professional viewpoint, rather than self-promotion. As required, interaction should also be held with the principals of media outlets to make them understand the facts and alternate viewpoints.",
+    "actionedBy": "DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "recNo": 26,
+    "recommendation": "Each Police Station should regularly publicise positive stories and good work done by it through influencers and local people, and also make effective use of its website/social media accounts to showcase the same.",
+    "actionedBy": "DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "recNo": 27,
+    "recommendation": "Retired Police officers should be approached for disseminating a positive outlook on Police functioning during their media interactions.",
+    "actionedBy": "DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "recNo": 28,
+    "recommendation": "In view of the growing role of social media, steps should be taken to increase the sensitivity of Police towards changing social dynamics.",
+    "actionedBy": "MHA, BPR&D",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "recNo": 29,
+    "recommendation": "Small component of Police personnel in khaki uniform should be integrated with NDRF and SDRF teams during rescue operations for improving public perception of the Police. Special web series/OTT content on rescue and relief operations should be created and given wide publicity.",
+    "actionedBy": "NDRF, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "recNo": 30,
+    "recommendation": "Wide publicity of positive testimonials from foreign tourists should be ensured to counter misinformation about our country and strengthen India's image to promote tourism.",
+    "actionedBy": "DGSP of States/UTs, Ministry of I&B, Ministry of Tourism, MHA",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "recNo": 31,
+    "recommendation": "State/UT Police should conduct frequent disaster response training/fire-fighting drills in schools, especially in Tier-2 and Tier-3 cities and municipalities, in association with Aapda Mitras and Aapda Sakhis, for strengthening disaster preparedness and resilience.",
+    "actionedBy": "NDRF, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "recNo": 32,
+    "recommendation": "State/UT Police should conduct civil defence exercises and blackout drills biannually in all districts by roping in Home Guards and NCC cadets for developing a culture of preparedness and emergency response within society in the backdrop of the lessons during OP Sindoor.",
+    "actionedBy": "DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "recNo": 33,
+    "recommendation": "Mechanism for joint, inter-state, in-service training of fire fighters and civil defence volunteers should be devised. Firefighters/crisis/disaster management courses be introduced in schools/colleges. Agniveers be trained in firefighting and be utilized in the system.",
+    "actionedBy": "MHA, Ministry of Education, FS CD & HG, NDRF, DGSP of States/UTs",
+    "category": "Can be converted to training modules",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "recNo": 34,
+    "recommendation": "State/UT Police should prepare an institutionalised mechanism for cataloguing of community resources and rescue forces, which could be mobilised in times of need. Such catalogues should have information on owners of boats, number of ex-policemen or ex-medical professionals, NGOs, civic-minded groups, etc.",
+    "actionedBy": "DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "recNo": 35,
+    "recommendation": "An institutional mechanism should be devised for conducting joint exercises and meetings involving all stakeholders for crisis management in States and mutual sharing of best practices, drills & SOPs. There should also be an effective coordination among States in this sphere.",
+    "actionedBy": "MHA, NDRF, FS CD & HG, BPR&D, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "recNo": 36,
+    "recommendation": "State/UT Police and Administration should regularly document the arrangements made, experiences and learning in organizing mega events to facilitate better planning of such events and handling crisis situations. Workshops should be organized after completion of mega events to analyze and discuss the arrangements for further improvement.",
+    "actionedBy": "MHA, BPR&D, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "recNo": 37,
+    "recommendation": "Responsibilities of organizers of mega events should be clearly defined. The organizers should adhere to the agreed arrangements and timelines, ensure distinct dress codes for organizers and volunteers for their easy identification in times of need.",
+    "actionedBy": "MHA, BPR&D, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "recNo": 38,
+    "recommendation": "National guidelines/SOPs should be formulated for crowd safety and the same should be disseminated to the organizers, based on which they should draw up their mandatory Event Safety Plans.",
+    "actionedBy": "MHA, BPR&D, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "recNo": 39,
+    "recommendation": "Create an application (app) that could be used by all Yatris visiting particular pilgrimage sites. This app should have all relevant information on weather, travel advisory, ponies, helplines numbers, emergency drill, etc. There should be proper warning/guiding signages on roads.",
+    "actionedBy": "MHA, MeitY, IB, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "recNo": 40,
+    "recommendation": "Police should increase its movement in border villages as a part of the Vibrant Village Programme, directly and indirectly. As part of the direct measures, Police officers/teams should undertake night stay for at least 50 nights in border villages every year and understand all aspects of village culture/activities. As a part of the indirect measures, Police should tactically use youth, adventure tourists, NCC cadets, community members, etc., who could visit border villages and act as eyes and ears for the Police.",
+    "actionedBy": "MHA, BSF, SSB, ITBP, Assam Rifles, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "recNo": 41,
+    "recommendation": "Whole-of-government approach should be adopted to integrate uninhabited islands with the mainland, by increasing the number of joint patrols by Navy, Coast Guard and Coastal Police, and hoisting the National Flag there. Duration of such visits to be increased, with the joint patrols taking different groups along with them, like NCC cadets, women's & students' groups etc. Journalists and Ministers to accompany such teams. Beach tourism, beach sports events and drone photography/videography should be encouraged in these islands to attract tourists.",
+    "actionedBy": "MHA, MOD, DGSP of Coastal States/UTs",
+    "category": "Immediately Actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "recNo": 42,
+    "recommendation": "The possibility of inclusion of Coastal Police training as a criterion for promotion of Police personnel in relevant States/UTs be explored.",
+    "actionedBy": "MHA, DGSP of Coastal States/UTs",
+    "category": "Drafting of guidelines, policies & regulations",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "recNo": 43,
+    "recommendation": "Whole-of-government approach should be adopted in the context of coastal security, with participation of coastal communities to undertake initiatives, such as mangrove regeneration, beach tourism and blue economy. Programmes like 'ek bagiya maa ke naam' for mangrove regeneration be adopted on the lines of 'ek ped maa ke naam' programme.",
+    "actionedBy": "MHA, DGSP of Coastal States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "recNo": 44,
+    "recommendation": "Special cells should be set up in State/UT Police concerned for monitoring the activities of fishermen apprehended by foreign agencies and mapping their family details. Identity of the returnees should be clearly established to rule out any impersonation; and to ascertain the nature of their activities during captivity so as to identify those having been provided with arms training and/or indoctrinated with radical ideas.",
+    "actionedBy": "MHA, DGSP of Coastal States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "recNo": 45,
+    "recommendation": "A Task Force, including experts from Coastal Police, Navy and Technical specialists, should be created, to make recommendations on various aspects of maritime resilience, while prioritizing Coastal Zones and adopting a graded approach.",
+    "actionedBy": "MHA, MOD, DGSP of Coastal States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "recNo": 46,
+    "recommendation": "State/UT Police should train their personnel for manning major and non-major ports under the supervision of CISF.",
+    "actionedBy": "MHA, CISF, DGSP of Coastal States/UTs",
+    "category": "Can be converted to training modules",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "recNo": 47,
+    "recommendation": "Naval NCC training should be made mandatory in all schools in the Coastal belt.",
+    "actionedBy": "MHA, MoD, Ministry of Education, DGsP of Coastal States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "recNo": 48,
+    "recommendation": "Private port developers should bear the cost of security, and be asked to develop a scanner tunnel to scan all containers passing through it. Customs Department to install its scanners after this tunnel and scan movement of containers by attaching GPS trackers on them.",
+    "actionedBy": "MHA; Ministry of Ports, Shipping & Waterways; DGSP of Coastal States/UTs; Ministry of Finance",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "recNo": 49,
+    "recommendation": "States/UT Police concerned should study Marine Home Guards concept of Tamil Nadu, and develop a training module for imparting proper training to Marine Home Guards.",
+    "actionedBy": "MHA, BPR&D, DGsP of Coastal States/UTs",
+    "category": "Can be converted to training modules",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "recNo": 50,
+    "recommendation": "Trading activities in coastal areas should be monitored for ascertaining the indicators of smuggling of contraband. Special Intensive Revision of Electoral Rolls (SIR) may be taken up in these areas to identify any unauthorized foreigners residing there.",
+    "actionedBy": "MHA, DGSP of Coastal States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 51,
+    "recNo": 51,
+    "recommendation": "Coastal areas should be visited constantly by Police officers as a part of the Vibrant Village Programme. They should also consider staying overnight in those areas. Multiple activities should be planned around such visits to increase engagement with the local population.",
+    "actionedBy": "DGsP of Coastal States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 52,
+    "recNo": 52,
+    "recommendation": "Heightened vigil on international borders and strict enforcement of immigration/deportation laws should be ensured to counter the threat of illegal immigration and protect the rights of Indian citizens over national resources.",
+    "actionedBy": "MHA, IB, BSF, SSB, ITBP, Assam Rifles, DGSP of States/UTs concerned",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 53,
+    "recNo": 53,
+    "recommendation": "Granting visa-on-arrival facility for nationals of select countries should be explored for boosting tourism, besides ensuring an effective mechanism for monitoring foreign visitors/tourists in association with State/UT Police.",
+    "actionedBy": "MHA, MEA, IB, DGSP of States/UTs",
+    "category": "Drafting of guidelines, policies & regulations",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 54,
+    "recNo": 54,
+    "recommendation": "A mechanism should be developed by State/UT Police, involving the local community, in the fight against drug addiction by building up on the societal trust reposed in the Police in this context. Lessons learnt and modus operandi of narcotics suppliers/criminals should be readily shared across forces/agencies to disrupt supply chain networks of narcotics.",
+    "actionedBy": "DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 55,
+    "recNo": 55,
+    "recommendation": "Whole-of-government approach should be adopted to combat drug addiction, and 10 priorities be finalised in this regard, and action taken on them. The approach should include awareness drives, de-addiction centres, counselling, use of former addicts for experience sharing, engagement of online influencers for campaigns on social media, posters/pamphlets/competitions, street-dramas/skits during Youth Festivals, etc.",
+    "actionedBy": "MHA, Ministry of Social Justice and Empowerment, Ministry of Health & Family Welfare, Ministry of Education, Ministry of Youth Affairs and Sports, NCB, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 56,
+    "recNo": 56,
+    "recommendation": "Publicity videos should be made of drug addicted youth as well as their mothers to serve as a deterrent for potential drug addicts. The videos should highlight their condition before and after drug addiction, depicting their physical condition at an advanced stage of addiction, besides their journey into addiction. Similarly, videos of the mothers could focus on how inadequate attention on the part of the parents led them to lose track of their children's addiction journey.",
+    "actionedBy": "MHA, Ministry of Social Justice and Empowerment, Ministry of Health & Family Welfare, Ministry of Education, NCB, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or Implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 57,
+    "recNo": 57,
+    "recommendation": "Hackathons should be organised for developing a technology (like breath analyser for detecting alcohol consumption) to detect consumption of drugs; and explore the creation of a special subject under the health sector for this purpose.",
+    "actionedBy": "MHA, NCB, NFSU, Ministry of Health & Family Welfare",
+    "category": "Drafting of guidelines, policies & regulations",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 58,
+    "recNo": 58,
+    "recommendation": "Team of officers from different departments should be formed to explore the legal and other aspects of conducting drug detection tests before admission into educational institutions and employment in private and government sectors. Counselling of jail inmates for drug de-addiction also be carried out.",
+    "actionedBy": "MHA, NCB, Ministry of Law & Justice, Ministry of Education, Ministry of Corporate Affairs, DGSP and Prison Departments of States/UTs",
+    "category": "Drafting of guidelines, policies & regulations",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 59,
+    "recNo": 59,
+    "recommendation": "There should be an effective use of data and latest technological tools, including satellite monitoring, for monitoring the movement of trucks/ other vehicles suspected to be carrying narcotics from the North East to the rest of the country.",
+    "actionedBy": "MHA, IB, NCB, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 60,
+    "recNo": 60,
+    "recommendation": "Use 'Nyaya Sanhita' as a collective terminology for Bharatiya Nyaya Sanhita, Bharatiya Sakshya Adhiniyam and Bharatiya Nagrik Suraksha Sanhita, in place of 'New Criminal Laws', so as to communicate the paradigm shift from 'laws oriented towards punishment' to 'laws oriented towards delivery of justice'. Police personnel at all levels be trained to use the new nomenclature.",
+    "actionedBy": "MHA, BPR&D, DGSP of States/UTs, CAPFs, CPOs",
+    "category": "Immediately Actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "recNo": 61,
+    "recommendation": "Every Police Station (PS) should be assigned with three schools every three months, which PS personnel should visit to create awareness, organise quizzes, essay competitions and debates on 'Nyaya Sanhita' for students. Games should be developed for students on the theme. This would encourage Police personnel to learn about the 'Nyaya Sanhita' and also generate awareness amongst teachers and families.",
+    "actionedBy": "MHA, Ministry of Education, DGSP of States/UTs",
+    "category": "Immediately Actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "recNo": 62,
+    "recommendation": "Wide publicity should be given to convictions obtained after trial of heinous offences under Nyaya Sanhita at the national level to create a positive environment about Nyaya Sanhita among the general public and stakeholders in the justice delivery system.",
+    "actionedBy": "DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "recNo": 63,
+    "recommendation": "National Law Universities and other premier legal educational institutions should study the benefits of Nyaya Sanhita in bringing about a paradigm shift in the justice delivery system and its emphasis on use of forensics. These case studies documenting India's forensic transition to be published and adopted in University curricula, besides being used for training Police personnel.",
+    "actionedBy": "MHA, DGSP of States/UTs, Ministry of Education, Ministry of Law & Justice, and NFSU",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "recNo": 64,
+    "recommendation": "Good court judgments, including convictions, obtained in cases of crime against women should be publicised through media and educational institutions, to generate awareness, deter offenders and reinforce women's confidence.",
+    "actionedBy": "MHA, BPR&D, I&B Ministry, DGsP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "recNo": 65,
+    "recommendation": "Teams of Police officers should be set up to study the incidents in real time and in its entirety, so that any negative agenda being pursued by vested interests over the incident was effectively countered with facts and figures.",
+    "actionedBy": "DGsP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "recNo": 66,
+    "recommendation": "A separate wing should be created, which could work with Election Commission of India, to identify and take action against bogus political parties misusing provision of donations.",
+    "actionedBy": "MHA, IB",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 67,
+    "recNo": 67,
+    "recommendation": "50 tourist destinations in the country should be mapped and the pattern of tourist traffic, State of origin of the tourists and their timing of visits to each be assessed in order to promote a tourist friendly environment, particularly during seasonal/regional festivals and fairs. To this end, local Police should coordinate with the originating States/UTs of the domestic tourists and seek deployment of a component of their Police personnel for the sake of familiarity, goodwill and ease of communication. Further, study groups be constituted by State/UT Police to visit tourist destinations outside their State/UT, study best practices of Tourist Policing there and adopt those in their respective States/UTs.",
+    "actionedBy": "MHA, BPR&D, DGsP of States/UTs, Ministry of Tourism",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 68,
+    "recNo": 68,
+    "recommendation": "A unified nationwide safety platform/app for women should be created.",
+    "actionedBy": "MHA, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 69,
+    "recNo": 69,
+    "recommendation": "Best practices for women's safety should be studied in the light of the new Labour Codes for standardization.",
+    "actionedBy": "MHA, BPR&D, Ministry of Labour, Ministry of Women & Child Development",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 70,
+    "recNo": 70,
+    "recommendation": "Public Interest Litigations and Right to Information applications should be carefully analyzed to identify individuals with shady linkages and motives/intentions.",
+    "actionedBy": "MHA, IB, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 71,
+    "recNo": 71,
+    "recommendation": "Faculty members of Law Universities, particularly National Law Universities, State Judicial Academies and those in the judiciary should be sensitised regarding the modus operandi of foreign interference in our internal affairs and its adverse implications on our national security.",
+    "actionedBy": "MHA, Ministry of Law and Justice, IB, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 72,
+    "recNo": 72,
+    "recommendation": "Profiles of key individuals linked to international rating bodies should be prepared and such information should be used in a subtle manner to discredit their anti-India reports based on distorted facts. A mechanism should be devised to provide accurate data about India to domestic/international academic/research bodies, whose data is generally relied upon by such rating agencies.",
+    "actionedBy": "MHA, IB",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 73,
+    "recNo": 73,
+    "recommendation": "Police functioning, particularly at ground level, should be reoriented to shift focus on achieving conviction rather than only arresting criminals. Police leadership should lay emphasis on improving conviction rates to achieve deterrence against crime.",
+    "actionedBy": "MHA, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 74,
+    "recNo": 74,
+    "recommendation": "Effective utilization of Beat Level Policing should be ensured. One whole year to be dedicated to achieve this goal.",
+    "actionedBy": "MHA, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 75,
+    "recNo": 75,
+    "recommendation": "Steps should be taken to make policing focussed on public interest and public trust.",
+    "actionedBy": "MHA, BPR&D, DGsP of States/UTs",
+    "category": "Needs to be developed as a review or Implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 76,
+    "recNo": 76,
+    "recommendation": "A year would be dedicated for the upgradation of beat-level policing to change their approach to secure the Constitutional Rights of the citizens. States should initiate action in this regard immediately.",
+    "actionedBy": "MHA, BPR&D, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 77,
+    "recNo": 77,
+    "recommendation": "Measures should be taken by the Police to protect property and public dignity as well as their own self-respect.",
+    "actionedBy": "MHA, BPR&D, DGsP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 78,
+    "recNo": 78,
+    "recommendation": "Police training should focus on scientific investigation techniques as a part of the roadmap for 'New Age Policing' to achieve Forensic, Digital & AI enabled Policing, right up to Police Station level. Police Stations should completely switch over to electronic mode for their day-to-day functioning to reduce dependence on physical documents.",
+    "actionedBy": "MHA, BPR&D, SVPNPA, DGSP of States/UTs",
+    "category": "Can be converted to training modules",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 79,
+    "recNo": 79,
+    "recommendation": "A standard training course is being devised for training from the level of constable to higher officers. All States should adopt it.",
+    "actionedBy": "MHA, BPR&D, IB, DGsP of States/UTs",
+    "category": "Can be converted to training modules",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 80,
+    "recNo": 80,
+    "recommendation": "The year 2026 should be taken up as 'Year of modernization and welfare of security personnel'. CAPFs should design a suitable scheme for injured/disabled CAPF personnel, including timely promotion, retention till retirement, reservation of 10 hospital beds in top 20 hospitals/locations across the country, earmarking of specific assignments for injured personnel, provision of Government job for the spouse, provision for treatment and recurring expenditure, identification of best artificial limb for the injured, and redefining the category of injury based on seriousness The scheme should be designed in a way that the possibility of misuse is ruled out.",
+    "actionedBy": "MHA, CAPFs, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or Implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 81,
+    "recNo": 81,
+    "recommendation": "06 modern, safe and external communication-resistant jails are being built in 06 areas. States should send only appropriate prisoners to these jails. An SOP is also being prepared in this regard.",
+    "actionedBy": "MHA, BPR&D, DGsP and Heads of Prisons of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 82,
+    "recNo": 82,
+    "recommendation": "Emerging challenges to internal security should be identified and studied after carefully examining global crime patterns, and a comprehensive strategy be formulated to deal with them to meet the ends of 'Viksit Bharat 2047'.",
+    "actionedBy": "MHA, IB, R&AW, BPR&D, DGsP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 83,
+    "recNo": 83,
+    "recommendation": "A compilation should be created by studying all post-independence movements. Threat profiling of relevant actors should be done. In this regard, targets should be identified, their logistics support broken, funding impeded, and a common media strategy should be developed.",
+    "actionedBy": "MHA, BPR&D, IB, CBDT, ED, FIU-IND",
+    "category": "Needs to be developed as a review or Implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "recNo": 84,
+    "recommendation": "As a part of the broader counter-terrorism framework, a comprehensive strategy should be formulated against fundamentalism, radicalization, organized crime and narco-terrorism.",
+    "actionedBy": "MHA, IB, NIA, BPR&D, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 85,
+    "recNo": 85,
+    "recommendation": "Anti-extremism policy should be taken up to the Police Station level through PRAHAAR.",
+    "actionedBy": "MHA, IB, NIA, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 86,
+    "recNo": 86,
+    "recommendation": "There should be seamless connectivity of CCTV control rooms at district, State and national levels.",
+    "actionedBy": "MHA, I4C, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 87,
+    "recNo": 87,
+    "recommendation": "Robust usage of databases like NAFIS, NATGRID, NIDAAN, E-courts, E-forensics and CCTNS by Police, particularly at Police Station level, should be ensured. Teams of State/UT Police officers should visit NATGRID Headquarters to understand the applications and disseminate further awareness.",
+    "actionedBy": "MHA, NCRB, NCB, NATGRID, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 88,
+    "recNo": 88,
+    "recommendation": "100% of the CCTNS data would be rolled out by March 2026. Maximum utilization at the Police Station Level should be ensured.",
+    "actionedBy": "MHA, NCRB",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 89,
+    "recNo": 89,
+    "recommendation": "All standalone databases available with Police should be connected through AI to ensure synergy and minimize response time in operations /investigations.",
+    "actionedBy": "MHA, NCRB, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 90,
+    "recNo": 90,
+    "recommendation": "Study Intelligent Traffic Management System/ITMS of different States/UTs, including the pilot project in Chennai, to create an all-India ITMS, incorporating best features of all. The tender conditions for all-India ITMS software contract should include a clause mandating sharing of source code by the developer.",
+    "actionedBy": "MHA, NCRB, BPR&D, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 91,
+    "recNo": 91,
+    "recommendation": "A concept paper should be developed on futuristic traffic management, involving all existing Municipal Corporations (MC) and 10 cities, which would have MCs within the next five years. The concept paper should include facets of the Planning department, RTOs and traffic management.",
+    "actionedBy": "BPR&D, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 92,
+    "recNo": 92,
+    "recommendation": "The action points developed and circulated by MHA on achieving deterrence and protection in cyberspace should be reviewed for complete implementation. Robust functioning of State Control Rooms as per MHA norms and its seamless alignment/integration with 14C's National Cyber Crime Reporting helpline (1930) should be ensured.",
+    "actionedBy": "MHA, 14C, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 93,
+    "recNo": 93,
+    "recommendation": "Learning from experiences in West Bengal and Punjab, implementation of the border fencing project along the Indo-Myanmar Border/IMB should be carried out with caution so that lands of citizens of both the countries do not fall beyond the fence.",
+    "actionedBy": "MHA, DGSP of concerned States/UTs and State/UT Administration",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 94,
+    "recNo": 94,
+    "recommendation": "State Police, sharing border with Myanmar, should identify, with the assistance from R&AW, IIG camps along the IMB. Agencies and State Police should update their databases about the IIG camps, training locations, launch pads and infiltration routes.",
+    "actionedBy": "MHA, NTRO, R&AW, IB, DGSP of States concerned",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 95,
+    "recNo": 95,
+    "recommendation": "States/UTs should send more number of Police personnel to National Academy of Coastal Policing (NACP), Okha, Gujarat for specialized training. Further, States/UTs should ensure early adoption of MHA's SOP for Model Coastal Police Station (CPS); and deployment of NACP-trained Police personnel in CPSs.",
+    "actionedBy": "MHA, DGSP of Coastal States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 96,
+    "recNo": 96,
+    "recommendation": "Coordination between the Centre and the States should be ensured for the security of coastal borders and critical infrastructure.",
+    "actionedBy": "MHA, IB, DGSP of Coastal States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 97,
+    "recNo": 97,
+    "recommendation": "State/UT Police should send details of shortlisted vendors offering container scanners and body scanners for airports to the Committee of CAPF officers constituted by MHA for approval.",
+    "actionedBy": "MHA, CISF, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 98,
+    "recNo": 98,
+    "recommendation": "Data systems of all airports should be upgraded in view of the recent cyber targeting of airport/signal systems.",
+    "actionedBy": "MHA, AAI, BCAS, IB, CISF, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 99,
+    "recNo": 99,
+    "recommendation": "Airport authorities should work out a system of verification of all workers before allowing them access inside airports. CCTNS should be used to verify the credentials of all workers.",
+    "actionedBy": "MHA, AAI, CISF, BCAS, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 100,
+    "recNo": 100,
+    "recommendation": "West Bengal Police should devise a mechanism to take back cases against Bangladeshi infiltrators overcrowding the jails.",
+    "actionedBy": "MHA, DGP West Bengal, West Bengal Prison Deptt.",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 101,
+    "recNo": 101,
+    "recommendation": "State Police should closely coordinate with NCB for effective usage of existing anti-narcotics mechanisms to dismantle inter-State and international drug cartels.",
+    "actionedBy": "MHA, NCB, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 102,
+    "recNo": 102,
+    "recommendation": "State Police along the IMB should work towards unearthing linkages of international narcotics smugglers and take strong action against them. Arunachal Pradesh, Assam, Manipur, Mizoram and Nagaland Police should work in coordination with IB for this purpose.",
+    "actionedBy": "MHA, IB, NCB and DGSP of Arunachal Pradesh, Assam, Manipur, Mizoram, Nagaland",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 103,
+    "recNo": 103,
+    "recommendation": "State/UT Police should ensure 100% implementation of Bharatiya Nyaya Sanhita, Bharatiya Sakshya Adhiniyam and Bharatiya Nagrik Suraksha Sanhita to achieve speedy and assured justice to citizens. ADGP rank officers should be appointed to oversee this implementation.",
+    "actionedBy": "MHA, DGsP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 104,
+    "recNo": 104,
+    "recommendation": "All States/UTs should invest in capacity building and strengthening of FSL ecosystem and infrastructure to achieve the objective of scientific investigation envisioned in Bharatiya Nyaya Sanhita, Bharatiya Sakshya Adhiniyam and Bharatiya Nagrik Suraksha Sanhita. In the same spirit, Prosecution Wings in the States/UTs should be restructured and strengthened for speedy justice and eradicating corruption.",
+    "actionedBy": "MHA, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 105,
+    "recNo": 105,
+    "recommendation": "MAC/Multi Agency Framework and its usage should be percolated up to the Police Station level for synergy in action at all levels of Policing. Greater exchange of learning between State Police and intelligence agencies should be ensured.",
+    "actionedBy": "IB, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 106,
+    "recNo": 106,
+    "recommendation": "Non-payment of fines should be linked to non-renewal of driving licenses.",
+    "actionedBy": "MHA, MORTH, DGSP of States/UTs",
+    "category": "Drafting of guidelines, policies & regulations",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 107,
+    "recNo": 107,
+    "recommendation": "CBI should set up a Focus Group in conjunction with States/UTs for handling human trafficking.",
+    "actionedBy": "MHA, CBI, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 108,
+    "recNo": 108,
+    "recommendation": "Laws to reduce the interference of citizens/organizations/governments in countries like the USA, UK, Canada, Russia, Australia, etc. should be studied. DIB should prepare a preliminary presentation on this and discuss it with the Home Secretary and the Ministry of External Affairs. A law should be brought on this in the next Budget Session. An arrangement should be made so that there is minimal dispute in the law.",
+    "actionedBy": "MHA, MEA, IB",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 109,
+    "recNo": 109,
+    "recommendation": "There are three places where reports about companies are filed, the Registrar of Companies, the Income Tax Department and the RBI. Reforms need to be made regarding the generation of inputs from there. Prepare a presentation on this soon. ED should also be involved.",
+    "actionedBy": "MHA, MoF, M/o Corporate Affairs, ED, IB",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 110,
+    "recNo": 110,
+    "recommendation": "Home Guards and Civil Defense need to be revived.",
+    "actionedBy": "MHA, FS CD & HG",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 111,
+    "recNo": 111,
+    "recommendation": "October 31 is the birth anniversary of Sardar Vallabhbhai Patel. A national-level competition should be held among teams from all States. The top 06 teams would participate on Rashtriya Ekta Diwas. A year-long programme should be chalked out.",
+    "actionedBy": "MHA, IB, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 112,
+    "recNo": 112,
+    "recommendation": "Senior State/UT Police officers should closely review the training curriculum for various Police ranks, assess adequacy of these courses, identify any gaps, and tailor the programmes accordingly. Curriculum should cover the basics of intelligence work, such as identifying harbourers and tracking the movement of weapons.",
+    "actionedBy": "BPR&D, DGsP of States/UTs",
+    "category": "Can be converted to training modules",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 113,
+    "recNo": 113,
+    "recommendation": "NATGRID platform should be effectively utilized by extending its access to Dy.SP rank officers, and encourage its usage by other Police units like ATS, CID, Economic Wing and Narcotics.",
+    "actionedBy": "DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 114,
+    "recNo": 114,
+    "recommendation": "Connectivity of all Police Stations through good network with high bandwidth of 100 Mbps and capacity building of Police officials in next three months for effective implementation of CCTNS and ICJS should be ensured.",
+    "actionedBy": "DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 115,
+    "recNo": 115,
+    "recommendation": "The problems posed by drones should be clearly identified and specific threat scenarios be studied for planning effective security systems. State/UT Police should set up district-level well-trained anti-drone units for event security.",
+    "actionedBy": "MHA, IB, BPR&D, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 116,
+    "recNo": 116,
+    "recommendation": "Virtual Reality (VR) simulations should be used in training of security personnel to give near real experience to trainees. Experience of personnel from J&K Police and other forces should be used in VR simulation exercises to make those more realistic. Such simulation exercises should include situations like the Batla House encounter (New Delhi) and transporting high value goods (explosives, etc.) by train.",
+    "actionedBy": "MHA, BPR&D, DGSP of States/UTs",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 117,
+    "recNo": 117,
+    "recommendation": "Explore the feasibility of providing insurance cover to victims of financial frauds; and examine the IT Act to authorize Sub-Inspector level officers for investigating online fraud cases.",
+    "actionedBy": "MHA, 14C, DGSP of States/UTs",
+    "category": "Drafting of guidelines, policies & regulations",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 118,
+    "recNo": 118,
+    "recommendation": "MHA should communicate with State/UT Governments to allocate sufficient budget to set up online financial fraud response units in respective States/UTs. MHA should also explore providing financial assistance to States/UTs under SRE route for a limited time for this purpose.",
+    "actionedBy": "MHA",
+    "category": "Drafting of guidelines, policies & regulations",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 119,
+    "recNo": 119,
+    "recommendation": "States/UTs should prepare provisional arrest and extradition papers alongside Red Corner Notices to avoid delays that had previously resulted in fugitives being released abroad. They should seek guidance from the dedicated cell in CBI in this regard.",
+    "actionedBy": "MHA, CBI, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 120,
+    "recNo": 120,
+    "recommendation": "Police personnel at PS level should be sensitized about misuse of youth addicted to online gaming by nefarious elements and approach parents for counselling. Social media monitoring units and existing capacity at the field level should be harnessed to find those hooked to these games for more than 08 hours in a day by resolving IPs associated with these games.",
+    "actionedBy": "DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 121,
+    "recNo": 121,
+    "recommendation": "Local communities in the North-East should be engaged and mainstreamed, without generating fear of their identity being compromised. Proper pre-induction briefing in this regard be given to Army and CAPF personnel. The briefing should involve anthropologists. Guidelines/SOPs should be issued in this regard.",
+    "actionedBy": "MHA, MOD, BPR&D, CAPFs, DGSP of States/UTs",
+    "category": "Can be converted to training modules",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 122,
+    "recNo": 122,
+    "recommendation": "A mechanism of regular meetings of District Road Safety Committees and follow up of their decisions/recommendations by senior officers should be devised to reduce the number of accidents and resultant loss of life.",
+    "actionedBy": "MHA, MORTH, DGSP of States/UTs and State/UT Administration",
+    "category": "Needs to be developed as a review or implementation framework",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  },
+  {
+    "id": 123,
+    "recNo": 123,
+    "recommendation": "National database on exam paper leakage mafia should be used to keep vigil over the kingpins.",
+    "actionedBy": "MHA, DGSP of States/UTs",
+    "category": "Immediately actionable",
+    "documentFields": [
+      {
+        "field": "Upload Word Document",
+        "type": "file",
+        "accept": ".doc,.docx"
+      },
+      {
+        "field": "Upload Photos",
+        "type": "file",
+        "accept": "image/*",
+        "multiple": true
+      },
+      {
+        "field": "Upload Signed Copy",
+        "type": "file",
+        "accept": ".pdf,image/*"
+      }
+    ]
+  }
+]
